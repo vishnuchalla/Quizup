@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quizup</string>
+    <string name="s1">Which of these is NOT something Batman uses?</string>
+    <string name="r1">Batarang</string>
+    <string name="r2">Underwater Breather</string>
+    <string name="r3">Gun</string>
+    <string name="r4">Knife</string>
+    <string name="b">Next</string>
+    <string name="s2">What is Batmans real name?</string>
+    <string name="c1">Bryce Wayne</string>
+    <string name="c2">Thomas Wayne</string>
+    <string name="c3">Cody Wayne</string>
+    <string name="c4">Bruce Wayne</string>
+    <string name="cb">Next</string>
+    <string name="s3">Who is Superman among the following?</string>
+    <string name="s4">Superman is also known as?</string>
+    <string name="sw1">Man of Steel</string>
+    <string name="sw2">Man of Iron</string>
+    <string name="sw3">Man of Gold</string>
+    <string name="sw4">Man of Diamond</string>
+    <string name="b1">Next</string>
+    <string name="s5">Best Movie of Batman and Supereman?</string>
+    <string-array name="spinner">
+        <item>Dark Knights</item>
+        <item>Batman vs Superman</item>
+        <item>Superman</item>
+        <item>Batman Returns</item>
+    </string-array>
+    <string name="b2">Next</string>
+    <string name="t8">Rate This App</string>
+</resources>

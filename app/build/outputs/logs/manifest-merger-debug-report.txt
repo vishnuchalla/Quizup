@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:5:5-54:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vishnu/.android/build-cache/496c806e35a4c2a4c9820cece1b73e80623e0aa4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vishnu/.android/build-cache/793dcdf6263b3cac177636e02947e50a80153e67/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/vishnu/.android/build-cache/2d08502098cb65478ec2cf37f0b1a3ae31601b65/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/vishnu/.android/build-cache/f3d761f5126d759d868ba69de90cc772fecc494c/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/vishnu/.android/build-cache/d5a68158706197b3a79f99c9d2f7cef8c6b38a8c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vishnu/.android/build-cache/abd14e52c7a7ff125eb0f672905b1da417dcd4e9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vishnu/.android/build-cache/7eeadbfa18156dcda8c2c5f8c11197d522f3941a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vishnu/.android/build-cache/ae2b26979c39e9f0e177d1314de4dc43f262f0dc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vishnu/.android/build-cache/16e0bed4b6b3af65c8038c9571ff63f81f789d58/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/vishnu/.android/build-cache/78a0eb601847097c53e29950ea149198af05f285/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.sample.quizup.first
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:15:13-49
+	android:excludeFromRecents
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:17:13-46
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:16:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:13:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.sample.quizup.second
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:24:9-28:39
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:27:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:28:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:25:13-35
+activity#com.sample.quizup.third
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:29:9-33:39
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:32:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:33:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:30:13-34
+activity#com.sample.quizup.fourth
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:34:9-38:39
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:37:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:36:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:35:13-35
+activity#com.sample.quizup.fifth
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:39:9-43:39
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:42:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:43:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:40:13-34
+activity#com.sample.quizup.sixth
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:44:9-48:39
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:47:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:48:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:46:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:45:13-34
+activity#com.sample.quizup.seventh
+ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:49:9-53:20
+	android:screenOrientation
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:51:13-49
+	android:noHistory
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:52:13-37
+	android:configChanges
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:50:13-48
+	android:name
+		ADDED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml:49:19-42
+uses-sdk
+INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vishnu/.android/build-cache/496c806e35a4c2a4c9820cece1b73e80623e0aa4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vishnu/.android/build-cache/793dcdf6263b3cac177636e02947e50a80153e67/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/vishnu/.android/build-cache/2d08502098cb65478ec2cf37f0b1a3ae31601b65/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/vishnu/.android/build-cache/de1a2133db5c0a8073d8134992a819c14e1eeb1b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/vishnu/.android/build-cache/f3d761f5126d759d868ba69de90cc772fecc494c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.2.0] /home/vishnu/.android/build-cache/d5a68158706197b3a79f99c9d2f7cef8c6b38a8c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vishnu/.android/build-cache/abd14e52c7a7ff125eb0f672905b1da417dcd4e9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vishnu/.android/build-cache/7eeadbfa18156dcda8c2c5f8c11197d522f3941a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vishnu/.android/build-cache/ae2b26979c39e9f0e177d1314de4dc43f262f0dc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vishnu/.android/build-cache/16e0bed4b6b3af65c8038c9571ff63f81f789d58/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/vishnu/.android/build-cache/78a0eb601847097c53e29950ea149198af05f285/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vishnu/Cse/Projects/Android/Quizup/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/vishnu/.android/build-cache/f3d761f5126d759d868ba69de90cc772fecc494c/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/vishnu/.android/build-cache/f3d761f5126d759d868ba69de90cc772fecc494c/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /home/vishnu/.android/build-cache/f3d761f5126d759d868ba69de90cc772fecc494c/output/AndroidManifest.xml:22:13-58

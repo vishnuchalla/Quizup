@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/Quizup/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vishnu/.android/build-cache/999989e42c0039d44e64a0b1f167e367d9034f45/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
